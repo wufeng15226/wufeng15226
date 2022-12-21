@@ -20,3 +20,5 @@ jobs:
           SHOW_OS: False
           SHOW_SHORT_INFO: Flase
           SHOW_LANGUAGE_PER_REPO: False
+          SYMBOL_VERSION: 2
+          IGNORED_REPOS: "tvm, blog-image, cloud, blog-comments"
