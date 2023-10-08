@@ -10,9 +10,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   92.42 % 
+GDScript                 0 secs              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.58 % 
 ```
 
 
- Last Updated on 07/10/2023 00:25:44 UTC
+ Last Updated on 08/10/2023 00:28:35 UTC
 <!--END_SECTION:waka-->
