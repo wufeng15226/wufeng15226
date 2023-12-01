@@ -2,7 +2,7 @@
 <!-- <div align="center"> <img src="https://stats.justsong.cn/api/leetcode?id=wufeng15226&cn=true"> </div>-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-509%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-509%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
@@ -18,5 +18,5 @@ Text                     2 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 30/11/2023 00:28:08 UTC
+ Last Updated on 01/12/2023 00:31:01 UTC
 <!--END_SECTION:waka-->
