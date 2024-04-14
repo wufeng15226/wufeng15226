@@ -10,10 +10,9 @@
 
 ```text
 💬 Programming Languages: 
-Other                    13 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.12 % 
-SSH Config               0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.88 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/04/2024 00:23:52 UTC
+ Last Updated on 14/04/2024 00:32:14 UTC
 <!--END_SECTION:waka-->
