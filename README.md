@@ -10,10 +10,9 @@
 
 ```text
 💬 Programming Languages: 
-C++                      35 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.93 % 
-Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.07 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/08/2024 00:33:04 UTC
+ Last Updated on 14/08/2024 00:32:10 UTC
 <!--END_SECTION:waka-->
