@@ -10,9 +10,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     2 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   80.66 % 
+Markdown                 0 secs              ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.34 % 
 ```
 
 
- Last Updated on 24/09/2024 00:36:14 UTC
+ Last Updated on 26/09/2024 00:35:46 UTC
 <!--END_SECTION:waka-->
