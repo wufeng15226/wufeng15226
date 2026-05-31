@@ -6,6 +6,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 30/05/2026 01:49:26 UTC
+```text
+💬 Programming Languages: 
+Markdown                 2 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
+
+
+ Last Updated on 31/05/2026 02:01:47 UTC
 <!--END_SECTION:waka-->
