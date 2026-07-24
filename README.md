@@ -2,8 +2,6 @@
 <!-- <div align="center"> <img src="https://stats.justsong.cn/api/leetcode?id=wufeng15226&cn=true"> </div>-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2027%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -14,5 +12,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/07/2026 01:23:53 UTC
+ Last Updated on 24/07/2026 01:20:18 UTC
 <!--END_SECTION:waka-->
