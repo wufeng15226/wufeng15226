@@ -2,10 +2,6 @@
 <!-- <div align="center"> <img src="https://stats.justsong.cn/api/leetcode?id=wufeng15226&cn=true"> </div>-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2045%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -22,5 +18,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/07/2026 01:15:22 UTC
+ Last Updated on 29/07/2026 01:17:26 UTC
 <!--END_SECTION:waka-->
