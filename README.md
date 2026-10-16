@@ -2,9 +2,9 @@
 <!-- <div align="center"> <img src="https://stats.justsong.cn/api/leetcode?id=wufeng15226&cn=true"> </div>-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -12,37 +12,37 @@
 
 ```text
 💬 Programming Languages: 
-C++                      4 hrs 25 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.26 % 
-Python                   1 hr 36 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.75 % 
-C                        1 hr 8 mins         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.06 % 
-YAML                     20 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.20 % 
-Other                    17 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.63 % 
+C++                      6 hrs 49 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.97 % 
+Python                   2 hrs 15 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.52 % 
+C                        1 hr 29 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.55 % 
+Other                    46 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.02 % 
+JavaScript               36 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs (24.64%)
+⏱ AI Coding Time: 3 hrs 21 mins (26.0%)
 
-✍️ 24 lines written by AI, 47 lines written by hand (33.8% AI-written)
+✍️ 287 lines written by AI, 61 lines written by hand (82.47% AI-written)
 
-🔤 512,479 Input Tokens, 36,928 Output Tokens
+🔤 992,551 Input Tokens, 112,199 Output Tokens
 
-💵 $45.68 Estimated AI Cost This Week
+💵 $61.20 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 25 AI Prompts
+🧠 11 AI Sessions, 47 AI Prompts
 
 Kimi                     24 lines            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 K                        0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 GPT                      0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 33.8% of written lines came from AI
-📝 Concise Prompter — average 249 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 79.83% of changed lines were hand-edited
+🤖 AI-Driven — 82.47% of written lines came from AI
+📝 Concise Prompter — average 219 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 26.52% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/10/2026 02:00:58 UTC
+ Last Updated on 16/10/2026 01:51:13 UTC
 <!--END_SECTION:waka-->
