@@ -12,7 +12,9 @@
 
 ```text
 💬 Programming Languages: 
-C++                      0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+C                        27 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   77.25 % 
+Python                   6 mins              ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.68 % 
+C++                      1 min               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.07 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -22,5 +24,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/10/2026 02:35:11 UTC
+ Last Updated on 28/10/2026 02:44:07 UTC
 <!--END_SECTION:waka-->
